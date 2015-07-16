@@ -1,4 +1,4 @@
-package gojw
+package similarwords
 
 import (
 	"fmt"

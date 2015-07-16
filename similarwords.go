@@ -2,7 +2,7 @@
 // that defines a jaro-winkler distance
 // to be between 0 and 1
 // (a port of SimilarWords.jl)
-package gojw
+package similarwords
 
 import "strings"
 
